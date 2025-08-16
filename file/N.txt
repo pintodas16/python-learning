@@ -1,0 +1,14 @@
+country name : Namibia country code: NA
+country name : Nauru country code: NR
+country name : Nepal country code: NP
+country name : Netherlands country code: NL
+country name : Netherlands Antilles country code: AN
+country name : New Caledonia country code: NC
+country name : New Zealand country code: NZ
+country name : Nicaragua country code: NI
+country name : Niger country code: NE
+country name : Nigeria country code: NG
+country name : Niue country code: NU
+country name : Norfolk Island country code: NF
+country name : Northern Mariana Islands country code: MP
+country name : Norway country code: NO

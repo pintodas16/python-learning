@@ -1,0 +1,20 @@
+country name : Bahamas country code: BS
+country name : Bahrain country code: BH
+country name : Bangladesh country code: BD
+country name : Barbados country code: BB
+country name : Belarus country code: BY
+country name : Belgium country code: BE
+country name : Belize country code: BZ
+country name : Benin country code: BJ
+country name : Bermuda country code: BM
+country name : Bhutan country code: BT
+country name : Bolivia country code: BO
+country name : Bosnia and Herzegovina country code: BA
+country name : Botswana country code: BW
+country name : Bouvet Island country code: BV
+country name : Brazil country code: BR
+country name : British Indian Ocean Territory country code: IO
+country name : Brunei Darussalam country code: BN
+country name : Bulgaria country code: BG
+country name : Burkina Faso country code: BF
+country name : Burundi country code: BI

@@ -1,0 +1,8 @@
+country name : Uganda country code: UG
+country name : Ukraine country code: UA
+country name : United Arab Emirates country code: AE
+country name : United Kingdom country code: GB
+country name : United States country code: US
+country name : United States Minor Outlying Islands country code: UM
+country name : Uruguay country code: UY
+country name : Uzbekistan country code: UZ

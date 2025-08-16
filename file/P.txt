@@ -1,0 +1,12 @@
+country name : Pakistan country code: PK
+country name : Palau country code: PW
+country name : Palestinian Territory, Occupied country code: PS
+country name : Panama country code: PA
+country name : Papua New Guinea country code: PG
+country name : Paraguay country code: PY
+country name : Peru country code: PE
+country name : Philippines country code: PH
+country name : Pitcairn country code: PN
+country name : Poland country code: PL
+country name : Portugal country code: PT
+country name : Puerto Rico country code: PR

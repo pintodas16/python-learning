@@ -1,0 +1,7 @@
+country name : Kazakhstan country code: KZ
+country name : Kenya country code: KE
+country name : Kiribati country code: KI
+country name : Korea, Democratic People'S Republic of' country code: KP
+country name : Korea, Republic of country code: KR
+country name : Kuwait country code: KW
+country name : Kyrgyzstan country code: KG

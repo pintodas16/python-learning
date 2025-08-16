@@ -1,0 +1,23 @@
+country name : Macao country code: MO
+country name : Macedonia, The Former Yugoslav Republic of country code: MK
+country name : Madagascar country code: MG
+country name : Malawi country code: MW
+country name : Malaysia country code: MY
+country name : Maldives country code: MV
+country name : Mali country code: ML
+country name : Malta country code: MT
+country name : Marshall Islands country code: MH
+country name : Martinique country code: MQ
+country name : Mauritania country code: MR
+country name : Mauritius country code: MU
+country name : Mayotte country code: YT
+country name : Mexico country code: MX
+country name : Micronesia, Federated States of country code: FM
+country name : Moldova, Republic of country code: MD
+country name : Monaco country code: MC
+country name : Mongolia country code: MN
+country name : Montenegro country code: ME
+country name : Montserrat country code: MS
+country name : Morocco country code: MA
+country name : Mozambique country code: MZ
+country name : Myanmar country code: MM

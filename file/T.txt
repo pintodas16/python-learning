@@ -1,0 +1,14 @@
+country name : Taiwan, Province of China country code: TW
+country name : Tajikistan country code: TJ
+country name : Tanzania, United Republic of country code: TZ
+country name : Thailand country code: TH
+country name : Timor-Leste country code: TL
+country name : Togo country code: TG
+country name : Tokelau country code: TK
+country name : Tonga country code: TO
+country name : Trinidad and Tobago country code: TT
+country name : Tunisia country code: TN
+country name : Turkey country code: TR
+country name : Turkmenistan country code: TM
+country name : Turks and Caicos Islands country code: TC
+country name : Tuvalu country code: TV

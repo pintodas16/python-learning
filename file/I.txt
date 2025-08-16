@@ -1,0 +1,9 @@
+country name : Iceland country code: IS
+country name : India country code: IN
+country name : Indonesia country code: ID
+country name : Iran, Islamic Republic Of country code: IR
+country name : Iraq country code: IQ
+country name : Ireland country code: IE
+country name : Isle of Man country code: IM
+country name : Israel country code: IL
+country name : Italy country code: IT

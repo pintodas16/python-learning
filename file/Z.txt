@@ -1,0 +1,2 @@
+country name : Zambia country code: ZM
+country name : Zimbabwe country code: ZW

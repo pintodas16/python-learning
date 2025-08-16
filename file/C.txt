@@ -1,0 +1,22 @@
+country name : Cambodia country code: KH
+country name : Cameroon country code: CM
+country name : Canada country code: CA
+country name : Cape Verde country code: CV
+country name : Cayman Islands country code: KY
+country name : Central African Republic country code: CF
+country name : Chad country code: TD
+country name : Chile country code: CL
+country name : China country code: CN
+country name : Christmas Island country code: CX
+country name : Cocos (Keeling) Islands country code: CC
+country name : Colombia country code: CO
+country name : Comoros country code: KM
+country name : Congo country code: CG
+country name : Congo, The Democratic Republic of the country code: CD
+country name : Cook Islands country code: CK
+country name : Costa Rica country code: CR
+country name : Cote D"Ivoire country code: CI
+country name : Croatia country code: HR
+country name : Cuba country code: CU
+country name : Cyprus country code: CY
+country name : Czech Republic country code: CZ

@@ -1,0 +1,4 @@
+country name : Reunion country code: RE
+country name : Romania country code: RO
+country name : Russian Federation country code: RU
+country name : RWANDA country code: RW

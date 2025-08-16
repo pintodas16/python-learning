@@ -1,0 +1,8 @@
+country name : Falkland Islands (Malvinas) country code: FK
+country name : Faroe Islands country code: FO
+country name : Fiji country code: FJ
+country name : Finland country code: FI
+country name : France country code: FR
+country name : French Guiana country code: GF
+country name : French Polynesia country code: PF
+country name : French Southern Territories country code: TF

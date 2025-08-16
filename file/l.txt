@@ -1,0 +1,10 @@
+country name : land Islands country code: AX
+country name : Lao People"S Democratic Republic country code: LA
+country name : Latvia country code: LV
+country name : Lebanon country code: LB
+country name : Lesotho country code: LS
+country name : Liberia country code: LR
+country name : Libyan Arab Jamahiriya country code: LY
+country name : Liechtenstein country code: LI
+country name : Lithuania country code: LT
+country name : Luxembourg country code: LU

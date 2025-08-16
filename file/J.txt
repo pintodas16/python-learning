@@ -1,0 +1,4 @@
+country name : Jamaica country code: JM
+country name : Japan country code: JP
+country name : Jersey country code: JE
+country name : Jordan country code: JO

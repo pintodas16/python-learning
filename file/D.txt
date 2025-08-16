@@ -1,0 +1,4 @@
+country name : Denmark country code: DK
+country name : Djibouti country code: DJ
+country name : Dominica country code: DM
+country name : Dominican Republic country code: DO

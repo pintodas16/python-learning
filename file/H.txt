@@ -1,0 +1,6 @@
+country name : Haiti country code: HT
+country name : Heard Island and Mcdonald Islands country code: HM
+country name : Holy See (Vatican City State) country code: VA
+country name : Honduras country code: HN
+country name : Hong Kong country code: HK
+country name : Hungary country code: HU

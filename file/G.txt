@@ -1,0 +1,16 @@
+country name : Gabon country code: GA
+country name : Gambia country code: GM
+country name : Georgia country code: GE
+country name : Germany country code: DE
+country name : Ghana country code: GH
+country name : Gibraltar country code: GI
+country name : Greece country code: GR
+country name : Greenland country code: GL
+country name : Grenada country code: GD
+country name : Guadeloupe country code: GP
+country name : Guam country code: GU
+country name : Guatemala country code: GT
+country name : Guernsey country code: GG
+country name : Guinea country code: GN
+country name : Guinea-Bissau country code: GW
+country name : Guyana country code: GY

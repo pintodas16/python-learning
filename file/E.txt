@@ -1,0 +1,7 @@
+country name : Ecuador country code: EC
+country name : Egypt country code: EG
+country name : El Salvador country code: SV
+country name : Equatorial Guinea country code: GQ
+country name : Eritrea country code: ER
+country name : Estonia country code: EE
+country name : Ethiopia country code: ET

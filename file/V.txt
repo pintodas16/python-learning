@@ -1,0 +1,5 @@
+country name : Vanuatu country code: VU
+country name : Venezuela country code: VE
+country name : Viet Nam country code: VN
+country name : Virgin Islands, British country code: VG
+country name : Virgin Islands, U.S. country code: VI

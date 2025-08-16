@@ -1,0 +1,29 @@
+country name : Saint Helena country code: SH
+country name : Saint Kitts and Nevis country code: KN
+country name : Saint Lucia country code: LC
+country name : Saint Pierre and Miquelon country code: PM
+country name : Saint Vincent and the Grenadines country code: VC
+country name : Samoa country code: WS
+country name : San Marino country code: SM
+country name : Sao Tome and Principe country code: ST
+country name : Saudi Arabia country code: SA
+country name : Senegal country code: SN
+country name : Serbia country code: RS
+country name : Seychelles country code: SC
+country name : Sierra Leone country code: SL
+country name : Singapore country code: SG
+country name : Slovakia country code: SK
+country name : Slovenia country code: SI
+country name : Solomon Islands country code: SB
+country name : Somalia country code: SO
+country name : South Africa country code: ZA
+country name : South Georgia and the South Sandwich Islands country code: GS
+country name : Spain country code: ES
+country name : Sri Lanka country code: LK
+country name : Sudan country code: SD
+country name : Suriname country code: SR
+country name : Svalbard and Jan Mayen country code: SJ
+country name : Swaziland country code: SZ
+country name : Sweden country code: SE
+country name : Switzerland country code: CH
+country name : Syrian Arab Republic country code: SY

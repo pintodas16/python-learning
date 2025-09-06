@@ -40,3 +40,35 @@ print(is_divisible_by_seven(number_two))
 number_three = 10
 power_of_two = list(map(lambda x: x*x, range(1,number_three + 1)))
 print(power_of_two)
+
+
+# Sort a list of tuples based on the second element using sorted and a lambda.
+
+li = [(1,3,5),(3,4,2),(2,1),(3,5),(1,2)]
+sorted_list = sorted(li,key=lambda num: num[1])
+print(sorted_list)
+
+
+# Sort a list of words by their length using sorted and a lambda.
+words = ["Bangladesh","Germany","UK","The Great Bratian","Dutchland"]
+sorted_words = sorted(words, key = len,reverse=True)
+print(sorted_words)
+
+# Remove all elements from a list that are not integers using filter and a lambda.
+li_elements = [1,2,"Apple","Orange","Banana",True,False]
+sorted_li_elements = list(filter(lambda el:isinstance(el,int) and not isinstance(el,bool) ,li_elements))
+print(sorted_li_elements)
+
+# Extract the domain name from a list of email addresses using map and a lambda.
+emails = ["alice@gmail.com", "bob@yahoo.com", "charlie@outlook.com"]
+extracted_emails = list(map(lambda email:email.split("@")[1],emails))
+print(extracted_emails)
+
+
+# Combine first and last names from two lists into full names using map and a lambda.
+
+first_names = ["Alice", "Bob", "Charlie"]
+last_names = ["Smith", "Johnson", "Brown"]
+
+full_names = list(map(lambda first_name,last_name:f'{first_name} {last_name}',first_names,last_names))
+print(full_names)
